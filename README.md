@@ -110,14 +110,16 @@
 
 ---
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifatmetu&show_icons=true&locale=en&layout=compact" alt="ifatmetu"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifatmetu&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifatmetu&show_icons=true&locale=en" alt="ifatmetu"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ifatmetu&show_icons=true" alt="GitHub Stats"/>
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifatmetu" alt="ifatmetu"/>
+  <img src="https://streak-stats.demolab.com/?user=ifatmetu" alt="GitHub Streak"/>
 </p>
