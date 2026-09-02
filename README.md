@@ -111,15 +111,6 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifatmetu&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ifatmetu&show_icons=true" alt="GitHub Stats"/>
-</p>
-
 <p>
   <img src="https://streak-stats.demolab.com/?user=ifatmetu" alt="GitHub Streak"/>
 </p>
