@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Ifat Jahan Metu</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
